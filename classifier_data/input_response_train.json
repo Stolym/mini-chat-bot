@@ -1,0 +1,26 @@
+[
+    {
+        "text": "bonjour", "label": "simple"
+    },
+    {
+        "text": "bonjour comment allez vous ?", "label": "complex"
+    },
+    {
+        "text": "bonjour comment vas tu ?", "label": "complex"
+    },
+    {
+        "text": "salut salut", "label": "simple"
+    },
+    {
+        "text": "hello", "label": "simple"
+    },
+    {
+        "text": "hi", "label": "simple"
+    },
+    {
+        "text": "salut comment tu vas ?", "label": "complex"
+    },
+    {
+        "text": "salut", "label": "simple"
+    }
+]

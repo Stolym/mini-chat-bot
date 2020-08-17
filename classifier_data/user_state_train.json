@@ -1,0 +1,107 @@
+[
+    {
+        "text": "avez vous des popcorns chips ou caca ?", "label": "subject"
+    },
+    {
+        "text": "pour la nourriture vous avez quoi ?", "label": "subject"
+    },
+    {
+        "text": "des chips et un maxi pop corn", "label": "subject"
+    },
+    {
+        "text": "stand de nourriture", "label": "subject"
+    },
+    {
+        "text": "vous avez des bonbons ?", "label": "subject"
+    },
+    {
+        "text": "j'aimerai des informations sur", "label": "subject"
+    },
+    {
+        "text": "les details de ", "label": "subject"
+    },
+    {
+        "text": "horaire de", "label": "subject"
+    },
+    {
+        "text": "les horaires de", "label": "subject"
+    },
+    {
+        "text": "y a t'il des places pour ", "label": "subject"
+    },
+    {
+        "text": "a qu'elle heure il y a ", "label": "subject"
+    },
+    {
+        "text": "bien oui", "label": "subject"
+    },
+    {
+        "text": "bien et toi ? oui", "label": "subject"
+    },
+    {
+        "text": "bien bien merci", "label": "subject"
+    },
+    {
+        "text": "bien et vous ? oui", "label": "subject"
+    },
+    {
+        "text": "oui s'il vous plait", "label": "subject"
+    },
+    {
+        "text": "et toi ? oui", "label": "subject"
+    },
+    {
+        "text": "bonjour", "label": "input"
+    },
+    {
+        "text": "bonjour comment allez vous ?", "label": "input"
+    },
+    {
+        "text": "bonjour comment vas tu ?", "label": "input"
+    },
+    {
+        "text": "salut salut", "label": "input"
+    },
+    {
+        "text": "hello", "label": "input"
+    },
+    {
+        "text": "hi", "label": "input"
+    },
+    {
+        "text": "salut comment tu vas ?", "label": "input"
+    },
+    {
+        "text": "salut", "label": "input"
+    },
+    {
+        "text": "merci au revoir", "label": "output"
+    },
+    {
+        "text": "merci bonne journée", "label": "output"
+    },
+    {
+        "text": "au revoir", "label": "output"
+    },
+    {
+        "text": "bye bye", "label": "output"
+    },
+    {
+        "text": "j'ai finis ma recherche", "label": "output"
+    },
+    {
+        "text": "??", "label": "outSubject"
+    },
+    {
+        "text": "testtest", "label": "outSubject"
+    },
+    {
+        "text": "t'es qui ?", "label": "outSubject"
+    },
+    {
+        "text": "jesaispas", "label": "outSubject"
+    },
+    {
+        "text": "je suis perdu", "label": "outSubject"
+    }
+]

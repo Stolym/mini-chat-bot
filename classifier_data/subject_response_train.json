@@ -1,0 +1,53 @@
+[
+    {
+        "text": "avez vous des popcorns chips ou caca ?", "label": "foodInformation"
+    },
+    {
+        "text": "pour la nourriture vous avez quoi ?", "label": "foodInformation"
+    },
+    {
+        "text": "des chips et un maxi pop corn", "label": "foodInformation"
+    },
+    {
+        "text": "stand de nourriture", "label": "foodInformation"
+    },
+    {
+        "text": "vous avez des bonbons ?", "label": "foodInformation"
+    },
+    {
+        "text": "j'aimerai des informations sur", "label": "filmInformation"
+    },
+    {
+        "text": "les details de ", "label": "filmInformation"
+    },
+    {
+        "text": "horaire de", "label": "filmInformation"
+    },
+    {
+        "text": "les horaires de", "label": "filmInformation"
+    },
+    {
+        "text": "y a t'il des places pour ", "label": "filmInformation"
+    },
+    {
+        "text": "a qu'elle heure il y a ", "label": "filmInformation"
+    },
+    {
+        "text": "bien oui", "label": "inputResponse"
+    },
+    {
+        "text": "bien et toi ? oui", "label": "inputResponse"
+    },
+    {
+        "text": "bien bien merci", "label": "inputResponse"
+    },
+    {
+        "text": "bien et vous ? oui", "label": "inputResponse"
+    },
+    {
+        "text": "oui s'il vous plait", "label": "inputResponse"
+    },
+    {
+        "text": "et toi ? oui", "label": "inputResponse"
+    }
+]
